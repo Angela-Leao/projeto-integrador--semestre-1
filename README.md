@@ -6,7 +6,7 @@ Um aplicativo mobile e um site para desktop voltado para organização, divulga�
 ### UML geral do gerenciador de ongs. 
 ```mermaid
 sequenceDiagram
- participant U as Usuário
+ actor U as Usuário
  participant A as APP (FrontEnd)
  participant B as BackAnd
  participant D as Banco de dados
