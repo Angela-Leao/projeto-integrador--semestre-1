@@ -11,4 +11,4 @@ participant C as Banco de dados
  C-->>B: Verificação de conta
  B-->>A: Retorna o acesso a conta
 A-->>U:Retorna a página inicial  
-Note over U: Interface de usuário e Interface de Ong
+Note over U: Voluntário e Ong
