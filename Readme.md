@@ -13,4 +13,5 @@ participant C as Banco de dados
  B->>C: Armazena os dados da conta no banco de dados
  C-->>B: Verificação de conta
  B-->>A: Retorna o acesso a conta
+note over U : Área central; Lista de ongs cadastradas; Urgência de doações; Inscrição de voluntários; Comunicação com a ong; Notificações; Configurações
  A-->>U:Retorna a página inicial  
