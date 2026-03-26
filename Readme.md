@@ -3,6 +3,7 @@
 
 ### Criação de conta 
 ```mermaid
+sequenceDiagram
 actor U as Usuário
 participant A as APP(Frontend)
 participant B as Backend
