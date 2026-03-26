@@ -1,3 +1,6 @@
+
+
+```mermaid
 sequenceDiagram
  actor U as Usuário
  participant A as APP (FrontEnd)
