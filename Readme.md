@@ -1,6 +1,6 @@
-Criação de conta 
-```mermaide
+### Criação de conta 
 
+```mermaide
 actor U as Usuário
 participant A as APP(Frontend)
 participant B as Backend
