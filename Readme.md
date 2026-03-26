@@ -13,4 +13,4 @@ participant C as Banco de dados
  B->>C: Armazena os dados da conta no banco de dados
  C-->>B: Verificação de conta
  B-->>A: Retorna o acesso a conta
- A-->>B:Retorna a página inicial  
+ A-->>U:Retorna a página inicial  
