@@ -3,7 +3,7 @@
 sequenceDiagram
 actor U as Usuário
 participant A as APP(Frontend)
-participant B as Backend
+participant B as BackEnd
 participant C as Banco de dados
  U->>A: Clica em "Primeiro acesso"
  A->>B: Prepara o ambiente de criação de conta
