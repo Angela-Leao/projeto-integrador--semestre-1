@@ -8,7 +8,7 @@ Um aplicativo mobile e um site para desktop voltado para organização, divulga�
 sequenceDiagram
  actor U as Usuário
  participant A as APP (FrontEnd)
- participant B as BackAnd
+ participant B as BackEnd
  participant D as Banco de dados
 
 U->>A:Clica em "Ong's"
