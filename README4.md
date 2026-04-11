@@ -1,3 +1,6 @@
+
+```mermaid
+
 flowchart TD
     A([Usuário acessa sistema]) --> B{Primeiro acesso}
     B -->|Sim| C[Criar conta com tipo]
