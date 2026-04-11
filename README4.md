@@ -14,5 +14,5 @@ flowchart TD
            Perfis;
            Urgências;
            Histórico de doações;
-           Comunicação entre os usuários.|
+           Comunicação entre os usuários.| G([Fim])
    
