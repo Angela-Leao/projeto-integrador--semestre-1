@@ -2,7 +2,7 @@
 ```mermaid
 
 flowchart TD
-    A([Apresentações]) --> B{Login/ sign in}
+    A([Apresentações]) --> B([Login/ sign in])
     B --> O{Ong}
     B --> D {Doador}
     O --> C [Página da Ong]
@@ -11,8 +11,7 @@ flowchart TD
           Sobre;
           Colaboradores;
           Imagens;
-          Redes sociais.|
-    C --> [Página central]
+          Redes sociais.|  E [Página central]
     D --> F [Explorar + Como fazer a 1° doação]
     F --> E [Página central]
     F --> |Apenas Pix|
