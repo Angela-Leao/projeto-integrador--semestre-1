@@ -7,7 +7,34 @@
 ## Infraestrutura Técnica      
 
 :desktop_computer: Backend
+- Node.js
+- Python
+- PHP
+- GO
+- Ruby
 
+:globe_with_meridians: Frontend web
+- HTML
+- Css
+- TypeScript
+
+:books: Frameworks
+- Express.js
+- Flask
+- Laravel
+- Ruby on Rail
+- React
+- Vue.js
+- TailwindCss
+
+:iphone: Mobile
+- Flutter
+- React Native
+
+:floppy_disk: Banco de dados 
+- MySQL
+- SQLite
+- GoogleFireStone
 
 
 
