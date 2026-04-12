@@ -8,37 +8,21 @@
 
 :desktop_computer: Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
 
 :globe_with_meridians: Frontend web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-- Css
-- TypeScript
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 
 :books: Frameworks
-- Express.js
-- Flask
-- Laravel
-- Ruby on Rail
-- React
-- Vue.js
-- TailwindCss
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=rubyonrails&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
 
 :iphone: Mobile
-- Flutter
-- React Native
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=plastic&logo=react&logoColor=black)
 
 :floppy_disk: Banco de dados 
-- MySQL
-- SQLite
-- GoogleFireStone
-
-
-
-
-
-
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white) ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=plastic&logo=firebase&logoColor=black)
 
 Colaboradores:
 Angela Leão;
