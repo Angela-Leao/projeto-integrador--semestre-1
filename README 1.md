@@ -1,6 +1,18 @@
-# projeto-integrador--semestre-1
-Gerenciador de ONG's
-Um aplicativo mobile e um site para desktop voltado para organização, divulgação e doação para ongs de diversas causas.
+# :houses: Gerenciador de Ongs's
+## Resumo
+###Este repositório contém o desenvolvimento de um aplicativo para gerenciar Ong's da cidade de Araraquara-SP, com funcionalidades voltadas para o gerenciamento de doações, auxílio na divulgação e mediação de comuniccação entre Ong e Doador. 
+---
+##**Infraestrutura Técnica** 
+---
+
+
+
+
+
+
+
+
+
 
 Colaboradores:
 Angela Leão;
