@@ -33,7 +33,7 @@
 
 [Fluxograma geral](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/fec0576484e5581b16efeac94787ebddeffb462e/Diagramas/Fluxograma_Geral.md)
 
-
+[Diagrama de caso de uso](file:///home/angela/Downloads/casodeusoo.drawio.pdf)
 
 
 
