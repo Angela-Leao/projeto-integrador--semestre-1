@@ -37,7 +37,7 @@
 
 [Diagrama de estado](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/eb65627aedadb8aac837638a3b15b81cbbc90038/Diagramas/Diagrama%20de%20estado.png)
 
-[Diagrama de cadastro](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/a286f860609b8bd2ddad53651797d38799cd6f8d/Diagramas/Fluxograma%20de%20cadastro.md)
+[Fluxograma de cadastro](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/a286f860609b8bd2ddad53651797d38799cd6f8d/Diagramas/Fluxograma%20de%20cadastro.md)
 
 Colaboradores:
 Angela Leão;
