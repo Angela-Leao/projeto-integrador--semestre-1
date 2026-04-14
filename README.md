@@ -33,9 +33,10 @@
 
 [Fluxograma geral](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/fec0576484e5581b16efeac94787ebddeffb462e/Diagramas/Fluxograma_Geral.md)
 
-[Diagrama de caso de uso]()
 [Diagrama de estado](https://imgur.com/42bMp3V)
+
 [Diagrama de caso de uso](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/eb65627aedadb8aac837638a3b15b81cbbc90038/Diagramas/Diagrama%20de%20caso%20de%20uso.pdf)
+
 [Diagrama de estado](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/eb65627aedadb8aac837638a3b15b81cbbc90038/Diagramas/Diagrama%20de%20estado.png)
 
 
