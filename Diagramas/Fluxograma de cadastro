@@ -1,0 +1,53 @@
+##Fluxograma
+
+##Solução de problemas solicitados pelo cliente
+
+```mermaid
+flowchart TD
+    INICIO([Administrador acessa o sistema]) --> DASH{Dashboard Principal}
+
+    %% Fluxo 1: Cadastrar Família
+    DASH --> |Opção 1| CAD_FAM[Cadastrar nova família]
+    CAD_FAM --> PREENCHE[Preencher dados: nome, endereço, membros, renda]
+    PREENCHE --> PSICOL{Campo: Precisa de suporte psicológico?}
+    PSICOL --> |Sim| MARCA_PSI[Registrar demanda psicológica na ficha da família]
+    PSICOL --> |Nao| SALVA_FAM[Salvar família no sistema]
+    MARCA_PSI --> SALVA_FAM
+    SALVA_FAM --> FAM_LISTA[Família disponível para receber ajuda]
+    FAM_LISTA --> DASH
+
+    %% Fluxo 2: Acompanhar suporte psicológico
+    DASH --> |Opção 2| LISTA_PSI[Listar famílias com demanda psicológica ativa]
+    LISTA_PSI --> ENCAMINHA[Encaminhar para voluntário da área de psicologia]
+    ENCAMINHA --> REG_ATEND[Registrar data de encaminhamento]
+    REG_ATEND --> ACOMP[Administrador acompanha se atendimento foi realizado]
+    ACOMP --> DASH
+
+    %% Fluxo 3: Registrar voluntários
+    DASH --> |Opção 3| CAD_VOL[Cadastrar voluntário]
+    CAD_VOL --> DADOS_VOL[Preencher nome, contato, disponibilidade]
+    DADOS_VOL --> AREA[Selecionar área de atuação: psicologia, logística, etc.]
+    AREA --> SALVA_VOL[Salvar voluntário e associar à área]
+    SALVA_VOL --> ESCALA[Voluntário disponível para escalar tarefas]
+    ESCALA --> DASH
+
+    %% Fluxo 4: Controlar mantimentos
+    DASH --> |Opção 4| ESTOQUE{O que registrar?}
+    ESTOQUE --> |Doação recebida| ENTRA[Informar mantimento e quantidade]
+    ENTRA --> ATUALIZA_ENT[Atualizar estoque +X]
+    ATUALIZA_ENT --> ALERTA_EXC{Estoque acima do máximo?}
+    ALERTA_EXC --> |Sim| AVISO_EXC[Alertar admin: parar de receber doações]
+    ALERTA_EXC --> |Nao| DASH
+    
+    ESTOQUE --> |Retirada ou Entrega| SAI[Selecionar família e mantimento]
+    SAI --> VERIFICA{Tem estoque suficiente?}
+    VERIFICA --> |Nao| NEGADO[Negar retirada - solicitar doações]
+    VERIFICA --> |Sim| ATUALIZA_SAI[Atualizar estoque -X]
+    ATUALIZA_SAI --> ALERTA_FAL{Estoque abaixo do mínimo?}
+    ALERTA_FAL --> |Sim| AVISO_FAL[Alertar admin: comprar urgente]
+    ALERTA_FAL --> |Nao| REG_RETIRADA[Registrar retirada para a família]
+    REG_RETIRADA --> DASH
+
+    NEGADO --> DASH
+    AVISO_EXC --> DASH
+    AVISO_FAL --> DASH
