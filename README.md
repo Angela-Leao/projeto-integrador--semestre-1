@@ -27,6 +27,18 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white) ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=plastic&logo=firebase&logoColor=black)
 
+[Diagrama de sequência para criação de conta](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/fec0576484e5581b16efeac94787ebddeffb462e/Diagramas/D_Sequ%C3%AAncia_Cria%C3%A7%C3%A3o_de_conta.md)
+
+[Diagrama de sequência geral](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/fec0576484e5581b16efeac94787ebddeffb462e/Diagramas/D_Sequ%C3%AAncia_Geral.md)
+
+[Fluxograma geral](https://github.com/Angela-Leao/projeto-integrador--semestre-1/blob/fec0576484e5581b16efeac94787ebddeffb462e/Diagramas/Fluxograma_Geral.md)
+
+
+
+
+
+
+
 Colaboradores:
 Angela Leão;
 
