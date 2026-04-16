@@ -42,6 +42,7 @@
 [Interface figma](https://www.figma.com/proto/7sXELhOs3vvQP7qKdKr5i5/Codia-AI-Canva--Import-Canva-Designs-to-Editable-Figma--Community---Community-?node-id=2023-304&t=5vxY6VzsYRaeiVd3-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2024%3A2&show-proto-sidebar=1)
 
 Colaboradores:
+
 Angela Leão;
 
 Anne Louise;
