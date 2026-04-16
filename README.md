@@ -1,4 +1,4 @@
-# :houses: Gerenciador de Ongs's
+# :houses: GEEAR -gerenciador de Ongs's
 ## Resumo
 ---
 ### Este repositório contém o desenvolvimento de um aplicativo para gerenciar Ong's da cidade de Araraquara-SP, com funcionalidades voltadas para o gerenciamento de doações, auxílio na divulgação e mediação de comuniccação entre Ong e Doador. 
