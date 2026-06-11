@@ -43,13 +43,16 @@
 
 ## Orçamento
 
-Frontend: 
+Frontend: 7.000 reais
 
-Backend:
+Backend: 9.000 reais
 
-Banco de dados:
+Banco de dados: 10.000 reais
 
-Segurança:
+Segurança: 11.000 reais
+
+Soma total por mês: 
+37.000
 
 ## Milestones
 
