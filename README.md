@@ -44,8 +44,11 @@
 ## Orçamento
 
 Frontend: 
+
 Backend:
+
 Banco de dados:
+
 Segurança:
 
 ## Milestones
