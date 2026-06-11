@@ -54,17 +54,17 @@ Segurança: 11.000 reais
 Total por mês: 37.000 reais
 
 ## Milestones
-Back-end
-Banco de Dados
-Interface
-Segurança
+Back-end;
+Banco de Dados;
+Interface;
+Segurança;
 
 ## Datas / Estimativas Milestones
 
-Back-end (Funções): 5 semanas
-Banco de Dados: 4 semanas
-Interface: 3 semanas
-Segurança: 4 semanas
+Back-end (Funções): 5 semanas;
+Banco de Dados: 4 semanas;
+Interface: 3 semanas;
+Segurança: 4 semanas;
 
 ## Colaboradores:
 
