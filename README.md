@@ -51,7 +51,7 @@ Banco de dados: 10.000 reais
 
 Segurança: 11.000 reais
 
-Soma total por mês: 37.000 reais
+Total por mês: 37.000 reais
 
 ## Milestones
 
