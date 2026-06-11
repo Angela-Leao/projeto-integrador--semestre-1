@@ -54,6 +54,10 @@ Segurança: 11.000 reais
 Total por mês: 37.000 reais
 
 ## Milestones
+Back-end
+Banco de Dados
+Interface
+Segurança
 
 ## Datas / Estimativas Milestones
 
