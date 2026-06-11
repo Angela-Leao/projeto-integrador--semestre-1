@@ -55,11 +55,18 @@ Soma total por mês: 37.000 reais
 
 ## Milestones
 
-Colaboradores:
+## Datas / Estimativas Milestones
+
+Back-end (Funções): 5 semanas
+Banco de Dados: 4 semanas
+Interface: 3 semanas
+Segurança: 4 semanas
+
+## Colaboradores:
 
 Angela Leão;
 
-Anne Louise;
+Anne Loise;
 
 Fernando Figueredo;
 
