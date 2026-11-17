@@ -1,9 +1,10 @@
 ##Para o início do Banco de Dados, foi utilizado o brmodelo para criar o modelo conceitual e lógico, eo SQLyog para criar o modelo físico.
-
+#Modelo Conceitual:
+<img width="936" height="535" alt="image" src="https://github.com/user-attachments/assets/c0a9c5d7-da24-4e4a-8c7c-5eaf2fce5799" />
 
 #Modelo Lógico:
 
-<img width="661" height="577" alt="image" src="https://github.com/user-attachments/assets/a02696f4-dfc5-4f63-b568-8d4e31e89a32" />
+<img width="946" height="776" alt="image" src="https://github.com/user-attachments/assets/d17158f3-9fbb-4da7-8bff-3b0856c30225" />
 
 #Modelo Físico:
 
